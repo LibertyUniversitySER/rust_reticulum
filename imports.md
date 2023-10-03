@@ -149,7 +149,7 @@ from . import _ed25519
 ```
 
 
-# Utilities
+# Utilities - taken by Kaelyn :)
 Utilities/__init__.py:
 ```python
 import glob
