@@ -149,22 +149,27 @@ from . import _ed25519
 ```
 
 
-# Utilities
+# Utilities - Kaelyn
 Utilities/__init__.py:
 ```python
 import glob
 ```
+[Glob crate](https://docs.rs/glob/latest/glob/)
 
 ### Utilities/rnid.py:
 ```python
 import base64
 ```
+[Base64 crate](https://docs.rs/base64/latest/base64/)
 
 ### Utilities/rnstatus.py:
 ```python
 import RNS
 import json
 ```
+(RNS is the network stack itself)
+[Json crate](https://docs.rs/json/latest/json/)
+
 
 ### Utilities/rncp.py:
 ```python
