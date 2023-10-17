@@ -34,9 +34,15 @@ from contextlib import AbstractContextManager
 ```
 
 
-### Cryptography/HKDF.py:
+### ~~Cryptography/HKDF.py~~:
 ```python
 from math import ceil
+```
+
+In rust we can do this:
+```rust
+let x: f32 = 2.3;
+let y = x.ceil();
 ```
 
 ### __init__.py:
